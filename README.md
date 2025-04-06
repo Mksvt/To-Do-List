@@ -42,7 +42,7 @@ start index.html
 ## 🛠️ Built With
 
 - HTML5  
-- CSS3 *(customize to your style)*  
+- CSS3
 - JavaScript (ES6)  
 - `localStorage` for persistent task storage  
 
