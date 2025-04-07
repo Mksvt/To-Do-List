@@ -53,7 +53,7 @@ Tasks are saved to `localStorage` in the following JSON format:
 [
   {
     "text": "Buy milk",
-    "date": "2025-04-06",
+    "date": "00:00",
     "completed": false
   }
 ]
